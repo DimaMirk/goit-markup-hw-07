@@ -361,12 +361,12 @@ header {
 }
 
 /* Team */
-.section-team {
+.team-section {
   padding: 94px 0;
   background-color: #f5f4fa;
 }
 
-.section-team__title {
+.team-section__title {
   font-size: 36px;
   line-height: 1.16;
   letter-spacing: 0.03em;
