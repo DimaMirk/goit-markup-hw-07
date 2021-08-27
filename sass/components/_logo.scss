@@ -4,9 +4,9 @@
   font-size: 26px;
   line-height: 1.19;
   margin-right: 94px;
-}
-.nav-logo__text {
-  color: $accent-color;
+  &__text {
+    color: $accent-color;
+  }
 }
 
 .footer-logo {
@@ -19,7 +19,7 @@
   line-height: 1.19;
   letter-spacing: 0.03em;
   margin-bottom: 20px;
-}
-.footer-logo_text {
-  color: $accent-color;
+  &__text {
+    color: $accent-color;
+  }
 }
